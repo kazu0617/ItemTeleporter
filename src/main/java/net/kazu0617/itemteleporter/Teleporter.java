@@ -5,9 +5,9 @@
 package net.kazu0617.itemteleporter;
 
 import java.util.Random;
-import org.bitbucket.ucchy.util.tellraw.ClickEventType;
-import org.bitbucket.ucchy.util.tellraw.MessageComponent;
-import org.bitbucket.ucchy.util.tellraw.MessageParts;
+import org.bitbucket.ucchy.undine.tellraw.ClickEventType;
+import org.bitbucket.ucchy.undine.tellraw.MessageComponent;
+import org.bitbucket.ucchy.undine.tellraw.MessageParts;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
