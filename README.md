@@ -8,6 +8,7 @@
 - /itemteleporter player <player> --- 指定のプレイヤーにテレポート。<player>にプレイヤー名を記入。
 - /itemteleporter location <x> <y> <z> --- 指定の座標にテレポート。<x>、<y>、<z>に座標を記入。
 - /itemteleporter random -- ランダムな座標にテレポート。ほぼ100%死に至る。
+- /itemteleporter getitem -- テレポートするItemを取得する。
 
 ## Permissonについて
 - teleport.toPlayers --- 指定のプレイヤーにテレポートするのを許可する。 default: true
